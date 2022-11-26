@@ -14,6 +14,6 @@
 
 ### 👨‍💻 About Me :
 
-- 💬 I know Python, HTML and a little bit of Go.
+- 💬 I know Python, BASH and a little bit of Go.
 
 
