@@ -6,7 +6,7 @@
 
 
 <div id="badges" align="center">
-    <a href="https://app.hackthebox.com/profile/876093" target="_blank">
+    <a href="https://app.hackthebox.com/profile/1342467" target="_blank">
         <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white"
             alt="HackTheBox Badge" />
     </a>
